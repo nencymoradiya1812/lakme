@@ -1,0 +1,56 @@
+form input {
+    display: block;
+    margin: 20px;
+    padding: 10px 10px;
+    width: 80%;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgba(102, 99, 99, 0.699);
+
+}
+
+#form {
+    border: 2px solid rgb(158, 157, 157);
+    width: 100%;
+    padding: 20px 20px;
+}
+
+#nav {
+    background-color: rgb(136, 160, 180);
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+}
+#nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+#form-box {
+    justify-content: center;
+    background-color: rgba(0, 255, 255, 0);
+    display: flex;
+    align-content: center;
+    padding-top: 10%;
+}
+#submit {
+    border: 0.5px solid rgb(122, 115, 115);
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    width: 50%;
+
+}
+#htext {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    color: rgb(149, 152, 147);
+    text-align: center;
+}
