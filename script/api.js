@@ -566,4 +566,387 @@ let api = [
       "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/ColorCrush_Hero_1_540x.jpg?v=1617249209",
   },
 
+  // Moisturizers
+  {
+    id: 34,
+    comman: "BEST SELLER",
+    title: "LAKMÉ LUMI CREAM 30G",
+    price: 299,
+    oldprice:775,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.7|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "62 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/FOP_ec222efe-cf42-4690-936b-8fa34e54acbc_540x.jpg?v=1681880860",
+  },
+
+  {
+    id: 35,
+    comman: "BEST SELLER",
+    title: " LAKMÉ YOUTH INFINITY SKIN FIRMING DAY CREME",
+    price: 636,
+    oldprice:949,
+    offer: "33% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "15 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/FOP_c1d6ec68-27ba-470c-a6e0-116bf961b27e_540x.jpg?v=1680679833",
+  },
+
+  {
+    id: 36,
+    comman: "BEST SELLER",
+    title: " LAKMÉ SUN EXPERT TINTED SUNSCREEN 50SPF 100G",
+    price: 467,
+    oldprice:525,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "26 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/27307_S1-8901030882623_540x.jpg?v=1682062928",
+  },
+
+  {
+    id: 37,
+    comman: "BEST SELLER",
+    title: "LAKMÉ 9TO5 NATURALE ALOE AQUA GEL 50G",
+    price: 180,
+    oldprice:225,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "15 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/Lakme9to5NaturaleAloeAquaGel_540x.png?v=1598252908",
+  },
+
+  {
+    id: 38,
+    comman: "BEST SELLER",
+    title: "LAKME ABSOLUTE PERFECT RADIANCE SKIN BRIGH..",
+    price: 110,
+    oldprice:775,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/LakmeAbsolutePerfectRadianceSkinLighteningDayCreme15g_540x.jpg?v=1603535870",
+    rating: "8 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/ColorCrush_Hero_1_540x.jpg?v=1617249209",
+  },
+
+  {
+    id: 39,
+    comman: "BEST SELLER",
+    title: " LAKME PEACH MILK MOISTURIZER BODY LOTION 60G",
+    price:99,
+    oldprice:125,
+    offer: "21% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "3 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/22625_S1_8901030863769_540x.jpg?v=1652522705",
+  },
+
+  {
+    id: 40,
+    comman: "BEST SELLER",
+    title: "LAKMÉ ABSOLUTE PERFECT RADIANCE SKIN BRIGH...",
+    price: 216,
+    oldprice:240,
+    offer: "10% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "11 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/27266_h-8901030764622_540x.jpg?v=1606372377",
+  },
+
+  {
+    id: 41,
+    comman: "BEST SELLER",
+    title: "LAKMÉ SUN EXPERT SPF 50 PA+++ ULTRA MATTE ...",
+    price: 420,
+    oldprice:525,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "20 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/12904_H-8901030916212_768d8b76-44b8-412a-a378-7e2381185d9c_540x.jpg?v=1680678544",
+  },
+
+  {
+    id: 42,
+    comman: "BEST SELLER",
+    title: "LAKME SUN EXP TINTED SUNSCREEN 50SPF 50G",
+    price: 279,
+    oldprice:349,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "11 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/AMAZONFOP1000X1000PX_540x.jpg?v=1680690185",
+  },
+
+  {
+    id: 43,
+    comman: "BEST SELLER",
+    title: "LAKMÉ SUN EXPERT SPF 50 PA+++ ULTRA MATTE...",
+    price: 525,
+    oldprice:570,
+    offer: "8% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "28 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/12904_H-8901030916212_540x.jpg?v=1680676644",
+  },
+
+  {
+    id: 44,
+    comman: "BEST SELLER",
+    title: " LAKME PEACH MILK ULTRA LIGHT GEL",
+    price: 120,
+    oldprice:775,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: " Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/FOP_PCH-MLK-ULTRA-LIGHT-GEL-50G-100g_v2_1_540x.jpg?v=1676466378",
+  },
+
+    //  second pages
+  {
+    id: 46,
+    comman: "BEST SELLER",
+    title: "LAKMÉ PEACH MILK MOISTURIZER 120G",
+    price: 199,
+    oldprice:250,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "7 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/22626_S1_8901030863776_540x.jpg?v=1652523485",
+  },
+  {
+    id: 47,
+    comman: "BEST SELLER",
+    title: "LAKMÉ SUN EXPERT SPF 50 PA+++ ULTRA MATTE...",
+    price: 260,
+    oldprice:325,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.6|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "10 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/12904_H-8901030916212_4e8ce197-1287-486d-984b-d9bb148f6b42_540x.jpg?v=1681989683",
+  },
+  {
+    id: 48,
+    comman: "BEST SELLER",
+    title: "LAKMÉ SUN EXPERT ULTRA MATTE GEL SUNSCREEN...COLOR CRUSH NAIL ART VALUE SET",
+    price: 221,
+    oldprice:276,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "1 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/LakmeSunExpertUltraMatteGelSunscreenSPF50PA_50ML_058ca54b-59d8-43d4-96c6-2f3cb75031f8_540x.jpg?v=1676617394",
+  },
+  {
+    id: 49,
+    comman: "BEST SELLER",
+    title: "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-C...    ",
+    price: 719,
+    oldprice:899,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.8|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "13 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/24003_S1-8901030825279_540x.jpg?v=1682067397",
+  },
+  {
+    id: 50,
+    comman: "BEST SELLER",
+    title: "LAKMÉ ABSOLUTE PERFECT RADIANCE SKIN BRIGH..",
+    price: 449,
+    oldprice:499,
+    offer: "10% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "1 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/22749_s1-8901030644900_2_540x.jpg?v=1619170854",
+  },
+  {
+    id: 51,
+    comman: "BEST SELLER",
+    title: "LAKMÉ 9TO5 NATURALE ALOE VERA GEL, 100 G",
+    price: 340,
+    oldprice:425,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.8|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: " 4 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/LAKME9TO5NATURALEALOEVERAGEL_100GM_540x.jpg?v=1598254167",
+  },
+  {
+    id: 52,
+    comman: "BEST SELLER",
+    title: "LAKMÉ YOUTH INFINITY SKIN FIRMING NIGHT CREME",
+    price: 965,
+    oldprice:1049,
+    offer: "8% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "5 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/H_1_c905025d-5d58-4376-8ae7-81441e003011_540x.jpg?v=1652526362",
+  },
+  {
+    id: 53,
+    comman: "BEST SELLER",
+    title: "LAKMÉ PEACH MILK SOFT CREMÉ 100 GM",
+    price: 210,
+    oldprice:775,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "6 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/1_a756a670-eb68-488b-993a-ec168e8b570c_540x.jpg?v=1680074977",
+  },
+  {
+    id: 54,
+    comman: "BEST SELLER",
+    title: "LAKMÉ 9 TO 5 VITAMIN C+ DAY CREAM – 50GM",
+    price: 297,
+    oldprice:349,
+    offer: "15% OFF",
+    icon: "fa-solid fa-star",
+    rate: "5|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "5 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/H_1_540x.jpg?v=1652526097",
+  },
+  {
+    id: 55,
+    comman: "BEST SELLER",
+    title: "LAKMÉ PEACH MILK SOFT CRÈME 200 G",
+    price: 440,
+    oldprice:775,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.8|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "8 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/21777_S1_8901030863751_540x.jpg?v=1652521310",
+  },
+  {
+    id: 56,
+    comman: "BEST SELLER",
+    title: "LAKME PEACH MILK INTENSE MOISTURIZER LOTIO...",
+    price: 199,
+    oldprice:775,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.8|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "5 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/12979_S1-8901030825286_540x.jpg?v=1682065790",
+  },
+  {
+    id: 57,
+    comman: "BEST SELLER",
+    title: "LAKMÉ ABSOLUTE ARGAN OIL RADIANCE OIL-IN-GEL",
+    price: 679,
+    oldprice:849,
+    offer: "20% OFF",
+    icon: "fa-solid fa-star",
+    rate: "4.9|",
+    image:
+      "https://cdn.shopify.com/s/files/1/0560/7017/6931/files/50x50.png?v=1657620495",
+    rating: "8 Verified Ratings",
+    shades: "12 shades",
+    "m-image":
+      "https://cdn.shopify.com/s/files/1/0014/3514/0183/products/ColorCrush_Hero_1_540x.jpg?v=1617249209",
+  },
+
+
 ];
